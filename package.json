@@ -1,0 +1,26 @@
+{
+  "name": "tekton-nodejs",
+  "version": "0.1.0",
+  "description": "tekton cd and nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wookets/tekton-nodejs.git"
+  },
+  "keywords": [
+    "tekton",
+    "nodejs"
+  ],
+  "author": "wookets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wookets/tekton-nodejs/issues"
+  },
+  "homepage": "https://github.com/wookets/tekton-nodejs#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
